@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0c44db95-616b-44d2-ab9b-e346e6e04e5b"
+      }
+    },
+    "android": {
+      "package": "com.henrylok0.easeparkhk"
+    }
+  }
+}
